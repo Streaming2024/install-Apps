@@ -1,6 +1,6 @@
 {
-  "name": "Yono TV Sports",
-  "short_name": "YonoTV",
+  "name": "YoNoTV Sports",
+  "short_name": "YoNoTV",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
